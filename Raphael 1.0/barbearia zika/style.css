@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+b {
+    color: black;
+}
+
+main {
+    background-color: red;
+}
+
+#banner {
+    width: 100%;
+}
